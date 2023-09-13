@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "Hello, nice to emeet you, I am Bill\nThis is the first website that I created about myself. I am current an MDS student at UBC."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "My projects will go here…"
+  }
+]

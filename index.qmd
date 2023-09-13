@@ -1,0 +1,8 @@
+---
+title: "My Website"
+---
+
+Hello, nice to emeet you, I am Bill
+
+This is the first website that I created about myself.
+I am current an MDS student at UBC.
